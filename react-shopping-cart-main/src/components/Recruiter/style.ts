@@ -1,5 +1,5 @@
 import styled from 'styled-components/macro';
-import flag from './nl-flag.png';
+import flag from './nepal.jpg';
 
 export const Container = styled.div`
   box-sizing: border-box;
